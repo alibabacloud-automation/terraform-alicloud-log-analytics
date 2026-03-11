@@ -4,9 +4,7 @@ Alibaba Cloud Log Service (SLS) Terraform Module
 
 English | [简体中文](https://github.com/alibabacloud-automation/terraform-alicloud-log-analytics/blob/main/README-CN.md)
 
-Terraform module which creates [Log Service (SLS)](https://www.alibabacloud.com/help/en/sls/) resources on Alibaba Cloud.
-
-This module provisions SLS projects, logstores, Logtail configurations, OSS data exports, PrivateLink VPC endpoints, and RAM role-based access control in a single reusable package.
+Terraform module which creates [Log Service (SLS) resources](https://www.alibabacloud.com/help/en/sls/) on Alibaba Cloud for centralized log management and analysis. This module provisions SLS projects, logstores, Logtail configurations, OSS data exports, PrivateLink VPC endpoints, and RAM role-based access control in a single reusable package.
 
 ## Usage
 

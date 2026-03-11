@@ -4,9 +4,7 @@
 
 [English](https://github.com/alibabacloud-automation/terraform-alicloud-log-analytics/blob/main/README.md) | 简体中文
 
-在阿里云上创建[日志服务（SLS）](https://help.aliyun.com/zh/sls/)资源的 Terraform 模块。
-
-该模块可以一站式创建 SLS 日志项目、日志库、Logtail 采集配置、OSS 数据投递、私网连接 VPC 终端节点以及 RAM 角色访问控制等资源。
+在阿里云上创建[日志服务（SLS）资源](https://help.aliyun.com/zh/sls/)用于集中式日志管理和分析的 Terraform 模块。该模块可以一站式创建 SLS 日志项目、日志库、Logtail 采集配置、OSS 数据投递、私网连接 VPC 终端节点以及 RAM 角色访问控制等资源。
 
 ## 使用方法
 

@@ -1,4 +1,4 @@
-# Advanced SLS Project Example
+# advanced
 
 This example demonstrates how to create an advanced SLS (Log Service) project with multiple configurations using the alicloud-log-analytics module.
 
@@ -19,6 +19,8 @@ This example demonstrates how to create an advanced SLS (Log Service) project wi
 - `oss_bucket_name`: The name of the OSS bucket for backup exports
 
 ## Usage
+
+> **Cost Estimation**: Running this example will create resources that may incur costs in your Alibaba Cloud account. Please review the pricing before proceeding.
 
 To run this example, execute:
 

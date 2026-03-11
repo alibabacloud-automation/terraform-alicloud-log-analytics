@@ -1,4 +1,4 @@
-# Basic SLS Project Example
+# basic
 
 This example demonstrates how to create a basic SLS (Log Service) project using the alicloud-log-analytics module.
 
@@ -14,6 +14,8 @@ This example demonstrates how to create a basic SLS (Log Service) project using 
 - `project_description`: The description of the SLS project
 
 ## Usage
+
+> **Cost Estimation**: Running this example will create resources that may incur costs in your Alibaba Cloud account. Please review the pricing before proceeding.
 
 To run this example, execute:
 
